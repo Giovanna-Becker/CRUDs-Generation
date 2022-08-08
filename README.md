@@ -1,1 +1,3 @@
-# CRUDs-Generation
+#### Praticando CRUD
+- Farmácia
+- Loja de games (em breve)
