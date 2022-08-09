@@ -33,7 +33,7 @@ public class ProdutoModel {
 	
 	@ManyToOne
 	@JsonIgnoreProperties("produto")
-	private CategoriaModel categoria; //XXXXXXXXXXXXXXXXX
+	private CategoriaModel categoria;
 
 	public Long getId() {
 		return id;
